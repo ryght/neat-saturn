@@ -18,7 +18,7 @@ sections:
         image_position: right
         actions:
           - type: action
-            label: Learn More
+            label: bkk
             url: /about
             style: primary
       - type: feature
